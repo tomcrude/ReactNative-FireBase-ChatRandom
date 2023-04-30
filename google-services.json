@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "891423142706",
+    "project_id": "projectx-7ad0d",
+    "storage_bucket": "projectx-7ad0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891423142706:android:84f23fee0a9d68feeadd2b",
+        "android_client_info": {
+          "package_name": "com.angesmor.chat.random"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891423142706-o0404jvcjtlkj5is13m4l5lap35n5blj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHc6VnevPqua77N88C4r0qk9KfyXcyZx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891423142706-o0404jvcjtlkj5is13m4l5lap35n5blj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891423142706:android:77eb1cfde4447b1deadd2b",
+        "android_client_info": {
+          "package_name": "com.angesmor.test4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891423142706-o0404jvcjtlkj5is13m4l5lap35n5blj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHc6VnevPqua77N88C4r0qk9KfyXcyZx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891423142706-o0404jvcjtlkj5is13m4l5lap35n5blj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
