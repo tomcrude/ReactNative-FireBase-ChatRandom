@@ -8,13 +8,13 @@ Download the repository and enter the command: npm start.
 Then you must create an account in firebase and create a web service.
 Copy the credentials that firebase will give you and create an .env file in the project and put:
 
-API_KEY = <your firebase key>.
-DOMAIN = <your firebase domain>.
-PROJECT_ID = <your firebase project id>.
-STORAGE_BUCKET = <your firebase storage bucket id>.
-SENDER = <your firebase sender>.
-APP_ID = <your firebase app idg>.
-MEASUREMENT = <your firebase measure>.
+API_KEY = your firebase key.
+DOMAIN = your firebase domain.
+PROJECT_ID = your firebase project id.
+STORAGE_BUCKET = your firebase storage bucket id.
+SENDER = your firebase sender.
+APP_ID = your firebase app id.
+MEASUREMENT = your firebase measure.
 
 Next create a database in firebase, put it in test mode and create the following collections: users and messages.
 
